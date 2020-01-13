@@ -410,7 +410,7 @@ public:
 	using Window<MyContext>::Window;
 };
 
-ModelViewer make_window()
+auto make_window()
 {
 	return ModelViewer{
 		std::tuple{ SCREEN_WIDTH, SCREEN_HEIGHT },
