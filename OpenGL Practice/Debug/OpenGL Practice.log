@@ -1,0 +1,28 @@
+﻿  ImCurveEdit.cpp
+  ImGradient.cpp
+  imgui.cpp
+  ImGuizmo.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_stdlib.cpp
+  imgui_widgets.cpp
+  ImSequencer.cpp
+  main.cpp
+C:\dev\OpenGL-Practice\OpenGL Practice\src\window.h(65,2): warning C4091: 'static ': ignored on left of 'WindowManager' when no variable is declared
+C:\dev\OpenGL-Practice\OpenGL Practice\src\mesh.h(98,20): warning C4018: '<': signed/unsigned mismatch
+C:\dev\OpenGL-Practice\OpenGL Practice\src\mesh.h(105,21): warning C4018: '<': signed/unsigned mismatch
+C:\dev\OpenGL-Practice\OpenGL Practice\src\mesh.h(144,21): warning C4018: '<': signed/unsigned mismatch
+C:\dev\OpenGL-Practice\OpenGL Practice\src\mesh.h(148,22): warning C4018: '<': signed/unsigned mismatch
+C:\dev\OpenGL-Practice\OpenGL Practice\src\main.cpp(25,29): warning C4244: 'argument': conversion from 'std::streamoff' to 'const unsigned int', possible loss of data
+C:\dev\OpenGL-Practice\OpenGL Practice\src\main.cpp(62,2): warning C4091: 'static ': ignored on left of 'MainCamera' when no variable is declared
+C:\dev\OpenGL-Practice\OpenGL Practice\src\main.cpp(382,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\dev\OpenGL-Practice\OpenGL Practice\src\main.cpp(460,1): warning C4305: '*=': truncation from 'double' to 'float'
+C:\dev\OpenGL-Practice\OpenGL Practice\src\main.cpp(462,1): warning C4305: '/=': truncation from 'double' to 'float'
+  stb_image_impl.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\dev\OpenGL-Practice\Debug\vc120.pdb'; linking object as if no debug info
+  OpenGL Practice.vcxproj -> C:\dev\OpenGL-Practice\Debug\OpenGL Practice.exe
